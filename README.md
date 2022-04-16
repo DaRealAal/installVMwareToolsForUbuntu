@@ -8,10 +8,10 @@ Step 2: Type below command and hit enter key
 
 step 3: Once it done use this command
 
-sudo apt-get install open-vm-tools-desktop -y
+        sudo apt-get install open-vm-tools-desktop -y
 
 you need to wait sometime to complete the installation
 
-Reboot your VM and type below command and hit enter key
+Step 4: Reboot your VM and type below command and hit enter key
 
-sudo reboot
+        sudo reboot
