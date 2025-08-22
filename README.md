@@ -15,3 +15,4 @@ you need to wait sometime to complete the installation
 Step 4: Reboot your VM and type below command and hit enter key
 
         sudo reboot
+blah blah blah
