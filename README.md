@@ -16,3 +16,4 @@ Step 4: Reboot your VM and type below command and hit enter key
 
         sudo reboot
 blah blah blah
+blah blah blah
